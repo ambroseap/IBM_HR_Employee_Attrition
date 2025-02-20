@@ -1,14 +1,11 @@
-# IBM_HR_Employee_Attrition
+# IBM HR EMPLOYEE ATTRITION
 
-###SUMMARY 
+## SUMMARY 
 Employees don’t just leave a company; they leave for different reasons.
 
 In this IBM HR Employee Attrition data analysis, I aimed to uncover the most probable causes of attrition within the company and explore if there are any correlations between attrition and the available variables.
 
 Here’s what I found:
-
-
-
 
 Out of 1,470 employees, 237 left the company, resulting in an attrition rate of 16.12%. While more males left compared to females, 
 this could be due to their relative high representation in the company.  males aged 18-20, especially those with less than a year of stay in the company, 
@@ -24,14 +21,14 @@ These insights highlight that attrition is driven by a complex combination of fa
  rather than a single variable.
 
 
-#PAGE ONE   (OVERVIEW)
+# PAGE ONE   (OVERVIEW)
 ![overview](https://github.com/user-attachments/assets/c6d28878-0ff9-420a-8ead-21a138b74f52)
 
 
-#PAGE TWO   (CORRELATION)
+# PAGE TWO   (CORRELATION)
 ![correlation](https://github.com/user-attachments/assets/636ab785-4abc-4190-8d5d-381e9a04a68b)
 
-#PAGE THREE   (POSSIBLE CAUSES)
+# PAGE THREE   (POSSIBLE CAUSES)
 ![possible causes](https://github.com/user-attachments/assets/aa65baac-f3dd-4731-b4b7-271cc86abf65)
 
 
